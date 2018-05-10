@@ -4,7 +4,3 @@ def reverse_each_words(string)
   x.reverse
 end.join(" ") 
 end
-
-def reverse_each_word(string)
-  reverse_each_words(string).join(" ")
-end
